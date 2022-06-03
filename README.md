@@ -12,4 +12,5 @@ PROCEDURE:
 4) Any message sent from phone will be received on Arduino's serial monitor.
 5) Install any Bluetooth controller app in Phone.
 6) In the app, set different keys for turning on/off the switches as prescribed in code.
+
 ![IMG-20190729-WA0009](https://user-images.githubusercontent.com/44753624/171931797-55762aa4-c658-4274-9532-653749b1cd74.jpg)
