@@ -1,5 +1,5 @@
 # ArduinoSmartControlSystem
-A project that seeks to allows users to operate various devices in home with just a touch (via smartphone)
+A project that allows the user to operate various devices in home with just a touch (via smartphone)
 
 
 REQUIRED:
